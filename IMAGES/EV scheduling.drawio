@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2023-07-23T10:55:40.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1O8fvlfzLtdTK0n3aCEh" version="21.6.5" type="device">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="h_25mXbiqBFyYsp701a1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;width=5;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;endSize=4;endWidth=9.333333333333334;gradientColor=#b3b3b3;" edge="1" parent="1" source="3a17f1ce550125da-2" target="h_25mXbiqBFyYsp701a1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-2" value="&lt;b&gt;Available Charging Slot at Present&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="787" y="440" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="3a17f1ce550125da-8" target="3a17f1ce550125da-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-8" value="&lt;b&gt;Charging Station(CSU)&lt;br&gt;&amp;nbsp;Current Status&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="590.5" y="440" width="133" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3a17f1ce550125da-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="787" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-9" value="&lt;b&gt;Total BEVs Parked at the CSU&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="590.5" y="598" width="132" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-1" value="&lt;b&gt;High-Priority Charging (HPC) BEVs Scheduling Policy&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="787" y="600" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-2" value="&lt;b&gt;Calculate Charging Waiting Period&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="787" y="758" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-3" value="&lt;b&gt;Overall Traveling&lt;br&gt;Time for Electric Vehicles&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792" y="920" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;width=5;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;endSize=4;endWidth=9.333333333333334;gradientColor=#b3b3b3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.33" y="706" as="sourcePoint" />
+            <mxPoint x="871.33" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;width=5;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;endSize=4;endWidth=9.333333333333334;gradientColor=#b3b3b3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.33" y="864" as="sourcePoint" />
+            <mxPoint x="871.33" y="918" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-9" value="&lt;b&gt;Selection of Charging Station with Minimum Total Trip Duration&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792" y="1080" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;width=5;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;endSize=4;endWidth=9.333333333333334;gradientColor=#b3b3b3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.33" y="1026" as="sourcePoint" />
+            <mxPoint x="871.33" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-12" value="&lt;b&gt;CSUs Information Broadcast to the BEVs&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792" y="280" width="170" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;width=5;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;endSize=4;endWidth=9.333333333333334;gradientColor=#b3b3b3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.33" y="386" as="sourcePoint" />
+            <mxPoint x="871.33" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="h_25mXbiqBFyYsp701a1-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="958" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_25mXbiqBFyYsp701a1-16" value="&lt;b&gt;Arrival Estimation for Reserved Electric Vehicles&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="598" width="150" height="106" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
